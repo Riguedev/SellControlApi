@@ -7,6 +7,8 @@
         }
     },
     "require": {
-        "pecee/simple-router": "^5.4"
+        "pecee/simple-router": "^5.4",
+        "firebase/php-jwt": "^7.2",
+        "vlucas/phpdotenv": "^5.8"
     }
 }
