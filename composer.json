@@ -1,0 +1,12 @@
+{
+    "name": "sellcontrol/api",
+    "description": "API MVC para SellControl",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "pecee/simple-router": "^5.4"
+    }
+}
