@@ -13,6 +13,7 @@ SimpleRouter::setDefaultNamespace('\App\Controllers');
 // Rutas de la API
 SimpleRouter::post('/SellControl/public/login', 'UserController@login');
 SimpleRouter::post('/SellControl/public/users', 'UserController@create');
+SimpleRouter::post('/SellControl/public/sell/create', 'SellController@create');
 
 // Iniciar el enrutamiento
 SimpleRouter::start();

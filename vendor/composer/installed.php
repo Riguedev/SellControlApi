@@ -3,7 +3,7 @@
         'name' => 'sellcontrol/api',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '26445efc9968577ca72cf1bf09433c35669469eb',
+        'reference' => '98d91eadb62daebb380662ba00bc4f5f7b538ad6',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -49,7 +49,7 @@
         'sellcontrol/api' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '26445efc9968577ca72cf1bf09433c35669469eb',
+            'reference' => '98d91eadb62daebb380662ba00bc4f5f7b538ad6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
