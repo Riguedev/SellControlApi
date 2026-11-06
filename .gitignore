@@ -1,0 +1,5 @@
+# Dependencias
+/vendor/
+
+# Archivos de configuración sensible
+.env
